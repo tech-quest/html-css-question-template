@@ -10,20 +10,22 @@
 
 <body>
     <header>
-      <div>
         <h1>タイトル</h1>
-      </div>
     </header>
 
     <main>
       <div>
-        <span>コンテンツ<span>
+        <span>コンテンツ1<span>
+        <span>コンテンツ2<span>
       </div>
     </main>
 
     <footer>
       <div>
-        <span>フッター</span>
+        <span>フッター1</span>
+      </div>
+      <div>
+        <span>フッター2</span>
       </div>
     </footer>
 </body>
