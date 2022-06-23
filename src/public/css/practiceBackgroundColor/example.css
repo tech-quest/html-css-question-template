@@ -1,0 +1,10 @@
+.main {
+  background-color: lightgray;
+}
+
+.main__text--lightsteelblue {
+  background-color: lightsteelblue;
+}
+.main__text--blue {
+  background-color: lightgreen;
+}
